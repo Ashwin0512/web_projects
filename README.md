@@ -14,3 +14,7 @@ Please find all the projects done by me. These are simple websites I made on the
 11. Responsive Sidebar - https://ashwin0512.github.io/web_projects/Sidebar/
 
 Also, I have experience of ReactJS and NextJS as well but I don't have any project to show over there since the work I have done in both the frameworks is for ECell BPHC, and I can't share the code for the same. In this project I worked upon the About Page of the website and styling of other pages as well. 
+
+
+Also, I have made a prototype website for the Wall Street as asked in the tasks. Please find the directory WSC for the same. It is also deployed on GH Pages at:
+https://ashwin0512.github.io/web_projects/WSC/
