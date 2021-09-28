@@ -1,0 +1,219 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+  }
+
+#title {
+  background-color: rgba(182,25,25,1);
+  color: #FDD2BF;
+}
+
+#testimonials {
+    text-align: center;
+    background-color: rgba(182,25,25,1);
+    color: #fff;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+#pricing {
+    padding: 10%;
+    text-align: center;
+}
+
+#cta    {
+    text-align: center;
+    background-color: rgba(182,25,25,1);
+    color: #fff;
+    padding: 4rem;
+}
+
+#footer {
+    text-align: center;
+
+}
+
+.heading {
+  padding-left: 5rem;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.navbar {
+  padding-left: 5rem;
+  background: #000;
+  background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(121,9,9,1) 72%, rgba(182,25,25,1) 100%);
+  position: fixed;
+  width: 100vw;
+  z-index: 10;
+}
+
+.space  {
+  padding: 5rem;
+}
+
+.title-content  {
+  padding-top: 10rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.wsc-logo {
+  height: 4rem;
+  width: auto;
+  border-radius: 5px;
+}
+
+.nav-item {
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+.wsc-img {
+  width: 22%;
+  position: absolute;
+  right: 25%;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+#whatWeDo {
+  background: #fff;
+  text-align: center;
+}
+
+.what {
+  font-weight: bold;
+  margin: 3rem 0;
+}
+
+.work {
+  margin: 0 3rem 5rem;
+}
+
+.review {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  line-height: 1.5;
+  font-size: 3rem;
+}
+
+.testimonial-img {
+  width: 20%;
+  border-radius: 100%;
+  margin: 25px;
+  margin-bottom: 15px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.press-img {
+  width: 15%;
+  padding: 20px 20px 50px;
+}
+
+.card   {
+    padding: 0;
+    margin: 0.7rem 0;
+    height: 350px;
+}
+
+.pricing-headline   {
+    font-weight: bold;
+
+}
+
+.pricing-info   {
+    padding-bottom: 3%;
+}
+
+.level  {
+    padding-bottom: 40px;
+}
+
+.pricing-btn    {
+    width: 90%;
+}
+
+.card-heading   {
+    margin: 8px 0;
+}
+
+@media (max-width: 1030px)  {
+    .wsc-img {
+      padding-top: 1rem;
+        position: static;
+        width: 50%;
+    }
+
+    #title  {
+        text-align: center;
+    }
+
+    .cta-line {
+      width: 80%;
+    }
+}
+
+.cta-line   {
+    /* padding: 1rem 18rem 2rem; */
+    width: 40%;
+    margin: auto;
+    margin-bottom: 2rem;
+    line-height: 1.5;
+    font-size: 2.5rem;
+
+}
+
+.cta-btn    {
+    margin: 0 0.8rem;
+}
+
+.icon   {
+    padding: 0 1rem;
+}
+
+.footer-content {
+    padding: 4rem 0 2rem;
+}
+
+.copyright  {
+    padding-top: 1rem;
+    color: grey;
+}
+
+.icon-link  {
+    color: #000;
+}
